@@ -22,7 +22,7 @@ env:
   DIY_P2_SH: diy-part2.sh
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: false
-  CONFIG: Lienol X64
+  CONFIG: Lienol_X64
   TZ: Asia/Shanghai
   
 jobs:
