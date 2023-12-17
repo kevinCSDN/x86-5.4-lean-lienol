@@ -1,4 +1,4 @@
-name: r2s config
+name: Lienol X64 generate config
 
 on:
   repository_dispatch:
